@@ -26,5 +26,5 @@ ikon gambar kategori berbeda.
 - ampilan logo selama 3 detik untuk memulai   ke halaman beranda.
 2. ``Pengguna berada di beranda ``
 - Pengguna memilih gambar kategori (misalnya, "Rumah") untuk membuka daftar kosakata.
-3. ``3.	Menjelajah Kosakata  ``
+3. ``Menjelajah Kosakata``
 - Pengguna melihat kosakata beserta terjemah sesuai kategori yang dipilih.
