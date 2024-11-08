@@ -12,9 +12,9 @@
 ## ARABICCLUB
 Aplikasi Kosakata Bahasa Arab ini bertujuan untuk membantu pengguna mempelajari dan memperluas kosakata dalam bahasa Arab. Dengan fitur pembelajaran interaktif, pengguna dapat belajar melalui Kosakata sesuai dengan kategori masig - masing. Aplikasi ini dirancang agar mudah digunakan bagi pemula maupun pelajar tingkat lanjut. 
 ## Storyboard
-![Create New Account (7)](https://github.com/user-attachments/assets/97f65643-a0f2-484c-a8c7-ee5d4c84852f)
+![Create New Account (8)](https://github.com/user-attachments/assets/78ea65a5-5f97-44c2-ae6d-f51d4b87af35)
 ## Mockup
-![Araicclub (6)](https://github.com/user-attachments/assets/688151d2-c4bf-4542-a833-4a2878e828ed)
+![Araicclub (7)](https://github.com/user-attachments/assets/52c99293-c265-43fe-9aeb-9c1dfe82435e)
 ### Fitur Utama:
 1. ``Splash Screen(Halaman Pembuka)``
 - Tampilan logo selama 3 detik untuk memulai   ke halaman beranda.
