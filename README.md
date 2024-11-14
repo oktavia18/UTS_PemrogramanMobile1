@@ -34,4 +34,4 @@ ikon gambar kategori berbeda.
 - Pengguna melihat kosakata beserta terjemah sesuai kategori yang dipilih.
 ### UI/UX Sistem Aplikasi:
 ![Screenshot 2024-11-14 215322](https://github.com/user-attachments/assets/cb49fc68-fe5d-49f5-91ab-9cc3547f22df)
-
+Gambar tersebut merupakan layar pembuka atau layar selamat datang dari aplikasi yang berfokus pada pembelajaran bahasa Arab. Teks utama dalam bahasa Arab mengatakan "مرحبًا" (Marhabaan) yang berarti "Halo" dalam bahasa Inggris. Teks bahasa Inggris di bawahnya mengatakan "Arabic!" dan teks tambahan menyatakan "Ayo belajar bahasa dasar bersama kami!"
