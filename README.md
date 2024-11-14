@@ -32,3 +32,5 @@ ikon gambar kategori berbeda.
 - Pengguna memilih gambar kategori (misalnya, "Rumah") untuk membuka daftar kosakata.
 3. ``Menjelajah Kosakata``
 - Pengguna melihat kosakata beserta terjemah sesuai kategori yang dipilih.
+### UI/UX Sistem Aplikasi:
+<img width="929" alt="Diagram - Voice Food Tracker Story Boardd (Community) (11)" src="https://github.com/user-attachments/assets/f5bb0da7-18c5-4ee7-ab31-ab7132e77132">
