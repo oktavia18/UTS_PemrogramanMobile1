@@ -34,25 +34,27 @@ ikon gambar kategori berbeda.
 - Pengguna melihat kosakata beserta terjemah sesuai kategori yang dipilih.
 - 
 ### UI/UX Sistem Aplikasi:
+Berikut penjelasan singkat mengenai tata letak dan UI/UX dari aplikasi ini:
 
 1. ``Splash Screen(Halaman Pembuka)``
 
 ![Screenshot 2024-11-14 215322](https://github.com/user-attachments/assets/cb49fc68-fe5d-49f5-91ab-9cc3547f22df)
+
 - Tampilan halaman pembuka ini memiliki desain yang sederhana dan minimalis. Teks utama dalam bahasa Arab "مرحبًا" (Marhabaan) yang berarti "Halo" diikuti dengan teks berbahasa Inggris "Arabic!" di bawahnya.
 - Bagian paling bawah berisi ajakan "Lets learn basic language with us!" yang jelas dan menarik, mendorong pengguna untuk mulai mempelajari bahasa Arab.
 - Secara keseluruhan, tata letak yang bersih dengan fokus pada konten utama menciptakan pengalaman pengguna yang mudah dipahami dan ramah bagi mereka yang ingin memulai pembelajaran bahasa Arab.
   
 2. ``Home Screen(Halaman Beranda)``
 
-![Screenshot 2024-11-14 215322](https://github.com/user-attachments/assets/3f10c154-8ec9-493e-8420-400a749f2cff) 
+![image](https://github.com/user-attachments/assets/a6f704e1-8fee-4fea-91e6-6357b1644185)
 
-Baik, berikut penjelasan singkat mengenai tata letak dan UI/UX dari aplikasi ini:
 - Halaman utama menampilkan empat ikon yang mewakili topik pembelajaran berbeda - "Sekolah", "Rumah", "Perpustakaan", dan "Profesi". Pengaturan visual ini memudahkan pengguna menjelajahi konten aplikasi.
 - Desain yang bersih dan minimalis dengan latar belakang putih memungkinkan ilustrasi berwarna-warni menonjol, menciptakan tampilan yang menarik secara visual.
   
 3. ``Layar Kosakata Berdasarkan Kategori (Vocabulary by Category) ``
    
-![Screenshot 2024-11-14 221053](https://github.com/user-attachments/assets/3d6a559b-89c8-4dac-92ea-4e2d237af8ab) 
+![image](https://github.com/user-attachments/assets/7e9c4237-94e4-406f-a080-9d3f30d9c6ae)
+
 - Tata letak ini menampilkan daftar topik atau kategori umum terkait pembelajaran, seperti "Kelas", "Meja", "Kursi", dan "Buku".
 - Desain yang bersih dan minimalis dengan jarak dan penyelarasan yang konsisten menciptakan antarmuka yang terorganisir secara visual dan mudah dijelajahi.
 - Penggunaan teks Arab dan transliterasi untuk setiap label topik menjangkau baik penutur bahasa Arab maupun non-Arab, memfasilitasi pengalaman belajar yang inklusif.
