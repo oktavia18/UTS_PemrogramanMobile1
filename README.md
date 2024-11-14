@@ -34,17 +34,20 @@ ikon gambar kategori berbeda.
 - Pengguna melihat kosakata beserta terjemah sesuai kategori yang dipilih.
 ### UI/UX Sistem Aplikasi:
 1. ``Splash Screen(Halaman Pembuka)``
+
 ![Screenshot 2024-11-14 215322](https://github.com/user-attachments/assets/cb49fc68-fe5d-49f5-91ab-9cc3547f22df)
-
-
-
-2. ``Home Screen(Halaman Beranda)``
+- Tata letak ini menampilkan daftar topik atau kategori umum terkait pembelajaran, seperti "Kelas", "Meja", "Kursi", dan "Buku".
+- Desain yang bersih dan minimalis dengan jarak dan penyelarasan yang konsisten menciptakan antarmuka yang terorganisir secara visual dan mudah dijelajahi.
+- Penggunaan teks Arab dan transliterasi untuk setiap label topik menjangkau baik penutur bahasa Arab maupun non-Arab, memfasilitasi pengalaman belajar yang inklusif.
+3. ``Home Screen(Halaman Beranda)``
+  
 ![Screenshot 2024-11-14 215322](https://github.com/user-attachments/assets/4d27cb4f-3cbe-42d3-9596-4054a540a3d0)
 
 
-3. ``Splash Screen(Halaman Pembuka)``
+4. ``Splash Screen(Halaman Pembuka)``
+5. 
 ![Screenshot 2024-11-14 221053](https://github.com/user-attachments/assets/3d6a559b-89c8-4dac-92ea-4e2d237af8ab)
 
    
-5. ``Layar Kosakata Berdasarkan Kategori (Vocabulary by Category) ``
+6. ``Layar Kosakata Berdasarkan Kategori (Vocabulary by Category) ``
 ![Screenshot 2024-11-14 223703](https://github.com/user-attachments/assets/3cab121f-1015-4c44-8854-6b998cbc30b8)
