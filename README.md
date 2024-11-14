@@ -61,6 +61,11 @@ Berikut penjelasan singkat mengenai tata letak dan UI/UX dari aplikasi ini:
    
   ![image](https://github.com/user-attachments/assets/7e9c4237-94e4-406f-a080-9d3f30d9c6ae)
 
-- Tata letak ini menampilkan daftar topik atau kategori umum terkait pembelajaran, seperti "Kelas", "Meja", "Kursi", dan "Buku".
-- Desain yang bersih dan minimalis dengan jarak dan penyelarasan yang konsisten menciptakan antarmuka yang terorganisir secara visual dan mudah dijelajahi.
-- Penggunaan teks Arab dan transliterasi untuk setiap label topik menjangkau baik penutur bahasa Arab maupun non-Arab, memfasilitasi pengalaman belajar yang inklusif.
+- Tata letak ini menampilkan daftar kosakata yang berkaitan dengan lingkungan sekolah, seperti "kelas," "meja," "kursi," "buku," dan lainnya. Setiap item dalam daftar terdiri dari kata 
+  dalam bahasa Indonesia di sebelah kiri dan terjemahannya dalam huruf Arab di sebelah kanan.
+- Desain ini memiliki latar belakang ungu muda dengan teks putih untuk kata Indonesia dan teks ungu gelap untuk teks Arab, yang memberikan kontras yang nyaman dan mudah dibaca. Setiap 
+  item dikelilingi oleh kotak berisi dengan sudut tumpul.
+- Di bagian atas daftar, terdapat label "sekolah" yang memberi tahu pengguna bahwa kata-kata ini berkaitan dengan benda atau hal yang biasa ditemukan di lingkungan sekolah. Dengan jarak 
+  antar-item yang konsisten dan penyelarasan yang rapi, antarmuka ini terlihat terorganisir dan memudahkan pengguna untuk melihat serta mempelajari kosakata satu per satu.
+- Penggunaan teks Arab bersama dengan transliterasi bahasa Indonesia memungkinkan pengguna dari latar belakang bahasa yang berbeda untuk belajar. Pengguna yang berbicara bahasa Indonesia 
+  dan ingin belajar kosakata Arab dapat memahami arti dari setiap kata secara langsung.
