@@ -50,8 +50,7 @@ Berikut penjelasan singkat mengenai tata letak dan UI/UX dari aplikasi ini:
 
   ![image](https://github.com/user-attachments/assets/a6f704e1-8fee-4fea-91e6-6357b1644185)
 
-- Halaman utama aplikasi ini memiliki empat ikon yang mewakili topik pembelajaran berbeda: "Sekolah," "Rumah," "Perpustakaan," dan "Profesi." Setiap ikon ditempatkan dalam kotak     
-  berbentuk persegi dengan sudut tumpul, memberikan kesan tampilan yang rapi dan konsisten. 
+- Halaman utama aplikasi ini memiliki empat ikon yang mewakili topik pembelajaran berbeda: "Sekolah," "Rumah," "Perpustakaan," dan "Profesi." Setiap ikon ditempatkan dalam kotak berbentuk persegi dengan sudut tumpul, memberikan kesan tampilan yang rapi dan konsisten. 
 - Latar belakang putih pada halaman ini menciptakan kontras dengan ilustrasi berwarna-warni, yang memudahkan pengguna untuk mengenali dan memilih topik yang mereka inginkan. Struktur 
   yang bersih dan minimalis ini tidak hanya memudahkan navigasi tetapi juga membuat pengalaman pengguna lebih intuitif.
 - Di bagian atas halaman, terdapat sapaan personalisasi dengan nama pengguna "Arabian," yang membuat pengguna merasa lebih terhubung dengan aplikasi. Desain ini sangat cocok untuk 
