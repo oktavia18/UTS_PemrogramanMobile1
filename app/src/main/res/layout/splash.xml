@@ -2,7 +2,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/Blue">
+    android:background="#E8DAFF">
 
     <TextView
         android:id="@+id/tvAppTitle"
@@ -20,35 +20,35 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="vertical"
-        android:padding="24dp"
+        android:layout_centerInParent="true"
         android:gravity="center"
-        android:layout_centerInParent="true">
+        android:orientation="vertical"
+        android:padding="24dp">
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
             android:text="مرحبا"
-            android:textSize="32sp"
             android:textColor="#6B4EFF"
-            android:layout_marginBottom="8dp"/>
+            android:textSize="32sp" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginBottom="24dp"
             android:text="Arabicclub!"
-            android:textSize="32sp"
-            android:textStyle="bold"
             android:textColor="#6B4EFF"
-            android:layout_marginBottom="24dp"/>
+            android:textSize="32sp"
+            android:textStyle="bold" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginBottom="32dp"
             android:text="Let's learn basic Arabic language with us!"
             android:textAlignment="center"
-            android:textColor="#666666"
-            android:layout_marginBottom="32dp"/>
+            android:textColor="#666666" />
 
 
     </LinearLayout>

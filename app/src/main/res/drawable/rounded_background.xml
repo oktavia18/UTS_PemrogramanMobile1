@@ -1,0 +1,5 @@
+<!-- res/drawable/rounded_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#E8DAFF" /> <!-- Warna latar belakang persegi panjang -->
+    <corners android:radius="16dp" /> <!-- Mengatur radius sudut melengkung (16dp) -->
+</shape>

@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F3F0FF">
+
+    <!-- Title Bar -->
+    <LinearLayout
+        android:id="@+id/titleBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="16dp"
+        android:gravity="center_vertical">
+
+    <!-- Title -->
+    <LinearLayout
+        android:id="@+id/titleBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#E8DAFF"
+        android:padding="9dp"
+        android:gravity="center_vertical|center_horizontal"> <!-- Gravity untuk memastikan konten di tengah -->
+
+        <!-- Title -->
+        <LinearLayout
+            android:id="@+id/titleBar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="#E8DAFF"
+            android:padding="16dp"
+            android:gravity="center">  <!-- Menyelaraskan konten secara horizontal dan vertikal -->
+
+            <!-- Title -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:text="Perpustakaan"
+                android:textColor="#7A52C8"
+                android:textSize="32sp"
+                android:textStyle="bold"
+                android:gravity="center" />  <!-- Teks di tengah -->
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+    <!-- Scrollable Content List -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/titleBar"
+        android:padding="16dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <!-- Item: Kelas -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:background="@drawable/rounded_background"
+                android:padding="15dp"
+                android:layout_marginBottom="8dp"
+                android:paddingStart="16dp"
+                android:paddingEnd="16dp"
+                android:gravity="center">
+
+                <!-- Gravity untuk menyelaraskan konten secara horizontal di tengah -->
+
+                <!-- Teks di sebelah kiri -->
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Perpustakaan"
+                    android:textColor="#7A52C8"
+                    android:textSize="23sp"
+                    android:textStyle="bold"
+                    android:gravity="center" />  <!-- Menempatkan teks di tengah -->
+
+                <!-- Teks di sebelah kanan -->
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="مَكْتَبَةٌ"
+                    android:textColor="#7A52C8"
+                    android:textSize="25sp"
+                    android:textStyle="bold"
+                    android:gravity="center" />  <!-- Menempatkan teks di tengah -->
+
+            </LinearLayout>
+
+
+
+            <!-- Item: Meja -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:background="@drawable/rounded_background"
+                android:padding="15dp"
+                android:layout_marginBottom="8dp"
+                android:paddingStart="16dp"
+                android:paddingEnd="16dp"
+                android:gravity="center">  <!-- Gravity untuk menyelaraskan konten secara horizontal di tengah -->
+
+                <!-- Teks di sebelah kiri -->
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Buku"
+                    android:textColor="#7A52C8"
+                    android:textSize="23sp"
+                    android:textStyle="bold"
+                    android:gravity="center" />  <!-- Menempatkan teks di tengah -->
+
+                <!-- Teks di sebelah kanan -->
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="كِتَابٌ"
+                    android:textColor="#7A52C8"
+                    android:textSize="25sp"
+                    android:textStyle="bold"
+                    android:gravity="center" />  <!-- Menempatkan teks di tengah -->
+
+            </LinearLayout>
+
+
+
+            <!-- Repeat similar blocks for other items: Kursi, Buku, Pensil, Penghapus, Peta, Papan tulis -->
+
+            <!-- Item: Kursi -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:background="@drawable/rounded_background"
+                android:padding="15dp"
+                android:layout_marginBottom="8dp"
+                android:paddingStart="16dp"
+                android:paddingEnd="16dp"
+                android:gravity="center">  <!-- Gravity untuk menyelaraskan konten secara horizontal di tengah -->
+
+                <!-- Teks di sebelah kiri -->
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Majalah"
+                    android:textColor="#7A52C8"
+                    android:textSize="23sp"
+                    android:textStyle="bold"
+                    android:gravity="center" />  <!-- Menempatkan teks di tengah -->
+
+                <!-- Teks di sebelah kanan -->
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="مَجَلَّةٌ"
+                    android:textColor="#7A52C8"
+                    android:textSize="25sp"
+                    android:textStyle="bold"
+                    android:gravity="center" />  <!-- Menempatkan teks di tengah -->
+
+            </LinearLayout>
+
+
+            <!-- Item: Kursi -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:background="@drawable/rounded_background"
+                android:padding="15dp"
+                android:layout_marginBottom="8dp"
+                android:paddingStart="16dp"
+                android:paddingEnd="16dp"
+                android:gravity="center">  <!-- Gravity untuk menyelaraskan konten secara horizontal di tengah -->
+
+                <!-- Teks di sebelah kiri -->
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Rak buku"
+                    android:textColor="#7A52C8"
+                    android:textSize="23sp"
+                    android:textStyle="bold"
+                    android:gravity="center" />  <!-- Menempatkan teks di tengah -->
+
+                <!-- Teks di sebelah kanan -->
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="رَفُّ الكُتُبِ"
+                    android:textColor="#7A52C8"
+                    android:textSize="25sp"
+                    android:textStyle="bold"
+                    android:gravity="center" />  <!-- Menempatkan teks di tengah -->
+
+            </LinearLayout>
+
+
+            <!-- Item: Kursi -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:background="@drawable/rounded_background"
+                android:padding="15dp"
+                android:layout_marginBottom="8dp"
+                android:paddingStart="16dp"
+                android:paddingEnd="16dp"
+                android:gravity="center">  <!-- Gravity untuk menyelaraskan konten secara horizontal di tengah -->
+
+                <!-- Teks di sebelah kiri -->
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Peminjaman"
+                    android:textColor="#7A52C8"
+                    android:textSize="23sp"
+                    android:textStyle="bold"
+                    android:gravity="center" />  <!-- Menempatkan teks di tengah -->
+
+                <!-- Teks di sebelah kanan -->
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="مُسْتَعِيرٌ"
+                    android:textColor="#7A52C8"
+                    android:textSize="25sp"
+                    android:textStyle="bold"
+                    android:gravity="center" />  <!-- Menempatkan teks di tengah -->
+
+            </LinearLayout>
+
+
+            <!-- Item: Kursi -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:background="@drawable/rounded_background"
+                android:padding="15dp"
+                android:layout_marginBottom="8dp"
+                android:paddingStart="16dp"
+                android:paddingEnd="16dp"
+                android:gravity="center">  <!-- Gravity untuk menyelaraskan konten secara horizontal di tengah -->
+
+                <!-- Teks di sebelah kiri -->
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Novel"
+                    android:textColor="#7A52C8"
+                    android:textSize="23sp"
+                    android:textStyle="bold"
+                    android:gravity="center" />  <!-- Menempatkan teks di tengah -->
+
+                <!-- Teks di sebelah kanan -->
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="رِوَايَةٌ"
+                    android:textColor="#7A52C8"
+                    android:textSize="25sp"
+                    android:textStyle="bold"
+                    android:gravity="center" />  <!-- Menempatkan teks di tengah -->
+
+            </LinearLayout>
+
+
+            <!-- Item: Kursi -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:background="@drawable/rounded_background"
+                android:padding="15dp"
+                android:layout_marginBottom="8dp"
+                android:paddingStart="16dp"
+                android:paddingEnd="16dp"
+                android:gravity="center">  <!-- Gravity untuk menyelaraskan konten secara horizontal di tengah -->
+
+                <!-- Teks di sebelah kiri -->
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Jurnal"
+                    android:textColor="#7A52C8"
+                    android:textSize="23sp"
+                    android:textStyle="bold"
+                    android:gravity="center" />  <!-- Menempatkan teks di tengah -->
+
+                <!-- Teks di sebelah kanan -->
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="دَوْرِيَّةٌ"
+                    android:textColor="#7A52C8"
+                    android:textSize="25sp"
+                    android:textStyle="bold"
+                    android:gravity="center" />  <!-- Menempatkan teks di tengah -->
+
+            </LinearLayout>
+
+
+            <!-- Item: Kursi -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:background="@drawable/rounded_background"
+                android:padding="15dp"
+                android:layout_marginBottom="8dp"
+                android:paddingStart="16dp"
+                android:paddingEnd="16dp"
+                android:gravity="center">  <!-- Gravity untuk menyelaraskan konten secara horizontal di tengah -->
+
+                <!-- Teks di sebelah kiri -->
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Ensiklopedia"
+                    android:textColor="#7A52C8"
+                    android:textSize="23sp"
+                    android:textStyle="bold"
+                    android:gravity="center" />  <!-- Menempatkan teks di tengah -->
+
+                <!-- Teks di sebelah kanan -->
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="مَوْسُوعَةٌ"
+                    android:textColor="#7A52C8"
+                    android:textSize="25sp"
+                    android:textStyle="bold"
+                    android:gravity="center" />  <!-- Menempatkan teks di tengah -->
+
+            </LinearLayout>
+
+
+            <!-- Add similar blocks for Buku, Pensil, Penghapus, Peta, Papan tulis with respective Arabic translations -->
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

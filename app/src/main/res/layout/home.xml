@@ -5,8 +5,39 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@color/Bluemuda"
+    android:background="#E8DAFF"
     android:padding="0dp">
+
+    <LinearLayout
+        android:id="@+id/titleBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#E8DAFF"
+        android:padding="9dp"
+        android:gravity="center_vertical|center_horizontal"> <!-- Gravity untuk memastikan konten di tengah -->
+
+    <!-- Title -->
+    <LinearLayout
+        android:id="@+id/titleBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#FFFFFF"
+        android:padding="20dp"
+        android:gravity="center">  <!-- Menyelaraskan konten secara horizontal dan vertikal -->
+
+        <!-- Title -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:textColor="#7A52C8"
+            android:textSize="33sp"
+            android:textStyle="bold"
+            android:gravity="center" />  <!-- Teks di tengah -->
+
+    </LinearLayout>
 
     <androidx.appcompat.widget.Toolbar tools:ignore="MissingConstraints"
         android:layout_height=""
@@ -21,8 +52,8 @@
         android:layout_marginStart="16dp"
         android:layout_marginTop="12dp"
         android:fontFamily="sans-serif-medium"
-        android:text="Hello Arabian!"
-        android:textColor="@android:color/white"
+        android:text="Hello\nArabian !"
+        android:textColor="@android:color/black"
         android:textSize="20sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"/>
@@ -32,12 +63,12 @@
         android:id="@+id/gridContainer"
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:layout_marginTop="38dp"
+        android:layout_marginTop="95dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintTop_toBottomOf="@id/headerText"
         app:background="@color/Bluemuda">
 
-        <!-- Kartu 1: Doa Makan -->
+
         <com.google.android.material.card.MaterialCardView
             android:id="@+id/card1"
             android:layout_width="0dp"
@@ -54,12 +85,13 @@
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:orientation="vertical"
-                android:padding="26dp">
+                android:padding="50dp"
+                android:background="#FFFFFF">
 
                 <ImageView
-                    android:layout_width="100dp"
+                    android:layout_width="300dp"
                     android:layout_height="100dp"
-                    android:src="@drawable/eating_food" />
+                    android:src="@drawable/sekolah" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -88,12 +120,13 @@
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:orientation="vertical"
-                android:padding="26dp">
+                android:padding="50dp"
+                android:background="#FFFFFF">
 
                 <ImageView
-                    android:layout_width="100dp"
+                    android:layout_width="200dp"
                     android:layout_height="100dp"
-                    android:src="@drawable/finished_food" />
+                    android:src="@drawable/rumah" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -122,12 +155,13 @@
                 android:layout_height="match_parent"
                 android:gravity="center"
                 android:orientation="vertical"
-                android:padding="26dp">
+                android:padding="50dp"
+                android:background="#FFFFFF">
 
                 <ImageView
-                    android:layout_width="100dp"
+                    android:layout_width="200dp"
                     android:layout_height="100dp"
-                    android:src="@drawable/waking_up"/>
+                    android:src="@drawable/perspustakaan"/>
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -135,7 +169,7 @@
                     android:layout_marginTop="8dp"
                     android:text="Perpustakaan"
                     android:textColor="@android:color/black"
-                    android:textSize="16sp" />
+                    android:textSize="10sp" />
             </LinearLayout>
         </com.google.android.material.card.MaterialCardView>
 
@@ -156,12 +190,13 @@
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:orientation="vertical"
-                android:padding="26dp">
+                android:padding="50dp"
+                android:background="#FFFFFF">
 
                 <ImageView
                     android:layout_width="100dp"
                     android:layout_height="100dp"
-                    android:src="@drawable/sleeping" />
+                    android:src="@drawable/profesi" />
 
                 <TextView
                     android:layout_width="wrap_content"
