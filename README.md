@@ -35,12 +35,16 @@ ikon gambar kategori berbeda.
 ### UI/UX Sistem Aplikasi:
 1. ``Splash Screen(Halaman Pembuka)``
 ![Screenshot 2024-11-14 215322](https://github.com/user-attachments/assets/cb49fc68-fe5d-49f5-91ab-9cc3547f22df)
-Gambar tersebut merupakan layar pembuka atau layar selamat datang dari aplikasi yang berfokus pada pembelajaran bahasa Arab.
-Teks utama dalam bahasa Arab mengatakan "مرحبًا" (Marhabaan) yang berarti "Halo" dalam bahasa Inggris. 
-Teks bahasa Inggris di bawahnya mengatakan "Arabic!" dan teks tambahan menyatakan "Ayo belajar bahasa dasar bersama kami!"
 
-2. ``Home(Halaman Pembuka)``
-Layout aplikasi ini memiliki desain sederhana dan jelas, yang mencakup beberapa elemen utama untuk navigasi pengguna:
-1. Bagian Header: Di bagian atas, terdapat pesan sapaan "Hello, Arabian!" yang menunjukkan elemen personalisasi. Ini dapat memberikan pengalaman yang lebih ramah bagi pengguna karena aplikasi mengenali mereka secara pribadi. 
-2. Grid Navigasi: Terdapat empat ikon utama yang disusun dalam format grid (2x2) dengan judul di bawah masing-masing ikon. Setiap ikon memiliki gambar ilustrasi dan label teks untuk kategori tertentu, yaitu "Sekolah," "Rumah," "Perpustakaan," dan "Profesi." Hal ini memudahkan pengguna untuk memahami dan mengakses fitur aplikasi dengan cepat.
-3. Desain Visual: Warna-warna lembut dan ilustrasi yang digunakan menciptakan suasana yang ramah dan tidak mengintimidasi. Ini membuat aplikasi cocok untuk pengguna dari berbagai usia, termasuk anak-anak dan remaja.
+
+
+2. ``Home Screen(Halaman Beranda)``
+![Screenshot 2024-11-14 215322](https://github.com/user-attachments/assets/4d27cb4f-3cbe-42d3-9596-4054a540a3d0)
+
+
+3. ``Splash Screen(Halaman Pembuka)``
+![Screenshot 2024-11-14 221053](https://github.com/user-attachments/assets/3d6a559b-89c8-4dac-92ea-4e2d237af8ab)
+
+   
+5. ``Layar Kosakata Berdasarkan Kategori (Vocabulary by Category) ``
+![Screenshot 2024-11-14 223703](https://github.com/user-attachments/assets/3cab121f-1015-4c44-8854-6b998cbc30b8)
