@@ -38,22 +38,28 @@ Berikut penjelasan singkat mengenai tata letak dan UI/UX dari aplikasi ini:
 
 1. ``Splash Screen(Halaman Pembuka)``
 
-![Screenshot 2024-11-14 215322](https://github.com/user-attachments/assets/cb49fc68-fe5d-49f5-91ab-9cc3547f22df)
+  ![Screenshot 2024-11-14 215322](https://github.com/user-attachments/assets/cb49fc68-fe5d-49f5-91ab-9cc3547f22df)
 
-- Tampilan halaman pembuka ini memiliki desain yang sederhana dan minimalis. Teks utama dalam bahasa Arab "مرحبًا" (Marhabaan) yang berarti "Halo" diikuti dengan teks berbahasa Inggris "Arabic!" di bawahnya.
+- Tampilan halaman pembuka ini memiliki desain yang sederhana dan minimalis. Teks utama dalam bahasa Arab "مرحبًا" (Marhabaan) yang berarti "Halo" diikuti dengan teks berbahasa Inggris 
+  "Arabic!" di bawahnya.
 - Bagian paling bawah berisi ajakan "Lets learn basic language with us!" yang jelas dan menarik, mendorong pengguna untuk mulai mempelajari bahasa Arab.
-- Secara keseluruhan, tata letak yang bersih dengan fokus pada konten utama menciptakan pengalaman pengguna yang mudah dipahami dan ramah bagi mereka yang ingin memulai pembelajaran bahasa Arab.
+- Secara keseluruhan, tata letak yang bersih dengan fokus pada konten utama menciptakan pengalaman pengguna yang mudah dipahami dan ramah bagi mereka yang ingin memulai pembelajaran 
+  bahasa Arab.
   
 2. ``Home Screen(Halaman Beranda)``
 
-![image](https://github.com/user-attachments/assets/a6f704e1-8fee-4fea-91e6-6357b1644185)
+  ![image](https://github.com/user-attachments/assets/a6f704e1-8fee-4fea-91e6-6357b1644185)
 
-- Halaman utama menampilkan empat ikon yang mewakili topik pembelajaran berbeda - "Sekolah", "Rumah", "Perpustakaan", dan "Profesi". Pengaturan visual ini memudahkan pengguna menjelajahi konten aplikasi.
-- Desain yang bersih dan minimalis dengan latar belakang putih memungkinkan ilustrasi berwarna-warni menonjol, menciptakan tampilan yang menarik secara visual.
+- Halaman utama aplikasi ini memiliki empat ikon yang mewakili topik pembelajaran berbeda: "Sekolah," "Rumah," "Perpustakaan," dan "Profesi." Setiap ikon ditempatkan dalam kotak     
+  berbentuk persegi dengan sudut tumpul, memberikan kesan tampilan yang rapi dan konsisten. 
+- Latar belakang putih pada halaman ini menciptakan kontras dengan ilustrasi berwarna-warni, yang memudahkan pengguna untuk mengenali dan memilih topik yang mereka inginkan. Struktur 
+  yang bersih dan minimalis ini tidak hanya memudahkan navigasi tetapi juga membuat pengalaman pengguna lebih intuitif.
+- Di bagian atas halaman, terdapat sapaan personalisasi dengan nama pengguna "Arabian," yang membuat pengguna merasa lebih terhubung dengan aplikasi. Desain ini sangat cocok untuk 
+  digunakan dalam aplikasi edukasi yang ditujukan untuk anak-anak atau pelajar karena tampilannya yang sederhana namun menarik secara visual.
   
 3. ``Layar Kosakata Berdasarkan Kategori (Vocabulary by Category) ``
    
-![image](https://github.com/user-attachments/assets/7e9c4237-94e4-406f-a080-9d3f30d9c6ae)
+  ![image](https://github.com/user-attachments/assets/7e9c4237-94e4-406f-a080-9d3f30d9c6ae)
 
 - Tata letak ini menampilkan daftar topik atau kategori umum terkait pembelajaran, seperti "Kelas", "Meja", "Kursi", dan "Buku".
 - Desain yang bersih dan minimalis dengan jarak dan penyelarasan yang konsisten menciptakan antarmuka yang terorganisir secara visual dan mudah dijelajahi.
