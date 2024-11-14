@@ -45,6 +45,7 @@ ikon gambar kategori berbeda.
 2. ``Home Screen(Halaman Beranda)``
 
 ![Screenshot 2024-11-14 215322](https://github.com/user-attachments/assets/3f10c154-8ec9-493e-8420-400a749f2cff) 
+
 Baik, berikut penjelasan singkat mengenai tata letak dan UI/UX dari aplikasi ini:
 - Halaman utama menampilkan empat ikon yang mewakili topik pembelajaran berbeda - "Sekolah", "Rumah", "Perpustakaan", dan "Profesi". Pengaturan visual ini memudahkan pengguna menjelajahi konten aplikasi.
 - Desain yang bersih dan minimalis dengan latar belakang putih memungkinkan ilustrasi berwarna-warni menonjol, menciptakan tampilan yang menarik secara visual.
