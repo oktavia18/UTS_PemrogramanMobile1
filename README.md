@@ -32,7 +32,7 @@ ikon gambar kategori berbeda.
 - Pengguna memilih gambar kategori (misalnya, "Rumah") untuk membuka daftar kosakata.
 3. ``Menjelajah Kosakata``
 - Pengguna melihat kosakata beserta terjemah sesuai kategori yang dipilih.
-- 
+ 
 ### UI/UX Sistem Aplikasi:
 Berikut penjelasan singkat mengenai tata letak dan UI/UX dari aplikasi ini:
 
