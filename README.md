@@ -58,7 +58,7 @@ Berikut penjelasan singkat mengenai tata letak dan UI/UX dari aplikasi ini:
   
 3. ``Layar Kosakata Berdasarkan Kategori (Vocabulary by Category) ``
    
-  ![image](https://github.com/user-attachments/assets/7e9c4237-94e4-406f-a080-9d3f30d9c6ae)
+ ![image](https://github.com/user-attachments/assets/eb21c969-3262-4b04-a8fc-545b8c142bf5)
 
 - Tata letak ini menampilkan daftar kosakata yang berkaitan dengan lingkungan sekolah, seperti "kelas," "meja," "kursi," "buku," dan lainnya. Setiap item dalam daftar terdiri dari kata 
   dalam bahasa Indonesia di sebelah kiri dan terjemahannya dalam huruf Arab di sebelah kanan.
