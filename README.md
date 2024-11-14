@@ -40,12 +40,13 @@ ikon gambar kategori berbeda.
 - Penggunaan teks Arab dan transliterasi untuk setiap label topik menjangkau baik penutur bahasa Arab maupun non-Arab, memfasilitasi pengalaman belajar yang inklusif.
   
 2. ``Home Screen(Halaman Beranda)``
-  ![Screenshot 2024-11-14 215322](https://github.com/user-attachments/assets/4d27cb4f-3cbe-42d3-9596-4054a540a3d0)
-
-
+![Screenshot 2024-11-14 215322](https://github.com/user-attachments/assets/3f10c154-8ec9-493e-8420-400a749f2cff)
+Baik, berikut penjelasan singkat mengenai tata letak dan UI/UX dari aplikasi ini:
+- Tampilan halaman pembuka ini memiliki desain yang sederhana dan minimalis. Teks utama dalam bahasa Arab "مرحبًا" (Marhabaan) yang berarti "Halo" diikuti dengan teks berbahasa Inggris "Arabic!" di bawahnya.
+- Bagian paling bawah berisi ajakan "Lets learn basic language with us!" yang jelas dan menarik, mendorong pengguna untuk mulai mempelajari bahasa Arab.
+  
 3. ``Layar Kosakata Berdasarkan Kategori (Vocabulary by Category) ``
 ![Screenshot 2024-11-14 221053](https://github.com/user-attachments/assets/3d6a559b-89c8-4dac-92ea-4e2d237af8ab)
 - Tata letak ini menampilkan daftar topik atau kategori umum terkait pembelajaran, seperti "Kelas", "Meja", "Kursi", dan "Buku".
 - Desain yang bersih dan minimalis dengan jarak dan penyelarasan yang konsisten menciptakan antarmuka yang terorganisir secara visual dan mudah dijelajahi.
 - Penggunaan teks Arab dan transliterasi untuk setiap label topik menjangkau baik penutur bahasa Arab maupun non-Arab, memfasilitasi pengalaman belajar yang inklusif.
-
